@@ -57,7 +57,7 @@ function setup() {
     pages.push(new PageNineteen())
     pages.push(new PageTwenty())
 
-    page = pages[14]
+    page = pages[0]
 }
 
 function draw(){
