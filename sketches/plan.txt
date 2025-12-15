@@ -1,0 +1,115 @@
+PAGE 0 home screen 
+    start
+
+PAGE 1 tai chi dojo
+    PROX middle of mat 
+        It all started when you joined tai chi. You chose tai chi rather than karate or tae kwon do because you didn't want to hurt anyone, just protect yourself. You'll discover soon enough that it was the wrong choice for that goal.
+    PROX ben and sprazz 
+        NAR
+            Your first day, you met two boys: Ben and Sprazzle. You should have known from the start that anyone with the name Sprazzle would be a little suspect. Ben was a natural at tai chi; Sprazzle was not. You did quite well, and you enjoyed the smooth, studied, slow movements. Ben and Sprazzle took you under their wing immediately, helping you in tai chi, but also befriending you outside of lessons. It was clearly a setup, but hindsight is 20/20. It started with a coffee, which they refused to let you pay for. More free snacks here and there, and most recently it was a free movie.
+    INT 
+        DIA
+            bensprazz chit chat and invite to amusement park 
+            fade to next 
+
+PAGE 2 parking lot
+    NAR
+        At the end of the day when you were leaving the amusement park, Ben and Sprazz led you to a van waiting in the parking lot.
+    PROX if walk away from van  
+        DIA bensprazz
+            hey this our ride come with use
+    PROX van
+        GIF anaconda gets out an opens doors, sudden black
+
+PAGE 3 red flower warehouse
+    NAR
+        You wake up eventually. Something is making your right forearm sting. You look down and see that they've given you a red flower tattoo, the mark of the notorious Red Flower gang. 
+    DIA Anaconda
+        OK Tulip and more nonsense about setting up a meeting between big guy and your dad
+    INT 
+        DIA
+            keep talking to anaconda basic repetitive 
+    INT papers on table
+        NAR 
+            papers documenting your involvement-- basically you're fucked
+    INT door    
+        run?
+
+PAGE 4 NAR
+    hide or meet big guy
+
+PAGE 5 red flower warehouse
+    DIA bensprazz
+        You convinced them that they would maintain more control if you met with Big Guy instead of your father, and they reluctantly agreed
+        a few dialogue options that all take you to the same place
+
+PAGE 6 NAR
+    Plans were made, and now you're arriving at Narita International Airport. A smiling well-dressed young woman is waiting at the exit to passport control. She holds a sign labeled with your name. She introduces herself as Sabaruki, and takes you to a cab, which takes you to your hotel. She tells you you'll stay there tonight before going to meet with Big Guy tomorrow.
+
+PAGE 7 hotel room
+    PROX door
+        DIA sabaruki 
+            we have to be leaving in 10 min hurry up
+        INT 
+            leave?
+            IF read letter: or sneak out?
+    INT letter
+        you find a letter slid under your door. It's from the yakuza. They are demanding that you don't meet with Big Guy and go instead to the address they listed. 
+
+PAGE 8 NAR
+    yakuza kill you <3
+
+PAGE 9 NAR
+    You have enough on your plate with the Red Flowers, and you don't need to complicate things any further. You throw away the letter and head down to the hotel lobby to meet with Sabaruki. She is waiting for you there, impatient after you took so long to come down, and leads you straight to the car that will take you to Big Guy. 
+
+PAGE 10 mansion
+    DIA sabaruki
+        wait here
+    INT walls
+        fancy wallpaper
+    INT paintings
+        famous artist
+    INT statues
+        statues really??
+    IF all int: next
+
+PAGE 11 big guys office
+    DIA big guy
+        back and forth with big guy here
+
+PAGE 12 NAR
+    The reality of the situation come crashing down on you. You are a hostage. You have been kidnapped. Kidnapped by yourself. You got on the plane, you came to Japan. You made yourself a hostage. And this man, thing, whatever he may be, he'll do anything to get what he wants. No matter what you do, you'll end up dead either way, so you may as well make it count. You lunge at Big Guy and grab a handful of wires. You rip them from his body, and his right arm goes limp. Unfortunately, Big Guy built himself with the means to fight back. His mechanical eyes turn straight at you, you feel as if they are staring through your soul. You see a flash of light, and two laser beams shoot straight through your chest. 
+
+PAGE 13 NAR    
+    The Red Flowers are dangerous, so you decide to go into hiding where you can think more on what to do next. You rememeber an old beach house your mom's company owns; it's the off season so it'll be empty right now
+
+PAGE 14 -15 house
+    INT key under pot
+    INT door locked
+        unlock w/ key
+    INT shelves lack dust
+    INT fridge
+    IF fridge 
+        THEN DIA ben sprazz outside
+            As you listen, you learn they're not here for you. It was one big coincidence, the Red Flowers have been using this house as a cargo drop point, and there's going to be one tonight. You should escape before Ben and Sprazz realize you're there, but you could stay and try to get more information before alerting the police. 
+        INT window NAR 
+            You should escape before Ben and Sprazz realize you're there, but you could stay and try to get more information before alerting the police. 
+            escape?? or stay to hear more?
+
+PAGE 16 NAR
+    You go back up the stairs as quietly as you can, open a window, and go out onto the roof. Just as you're about to climb down, a car pulls up in front of the house. The windows are down, and you can hear Anaconda talking to someone in the passenger seat. The way he's talking to Anaconda, it must be his boss, Big Guy, and he just told Anaconda to kill Ben and Sprazz. 
+    run or stay?
+
+PAGE 17 neighborhood
+    INT doors
+        knock -- most dont open
+        DIA neighbor
+            ask to use phone call popo
+
+PAGE 18 NAR
+    You call the cops. They send a squad car, but by the time it gets there, it's too late. There's no sign of anyone having been in the house at all, let alone a crime scene. The police think you're lying about the story; with no evidence at the house, how could they believe you? You call your dad and explain the situation. He believes you. Together, you try again to convince the police, and with your dad's help, they agree to send a larger force to intercept the cargo drop tonight. Finally everything can come to a close, you'll no longer be running from the gang, and they'll all be arrested for their crimes. When the time comes for the drop, the cops discover that Big Guy was ready for an attack. Both him and Anaconda, along with all their gang members, turn the beach into a bloodbath. They get away, and you vow to spend your life hunting them down. 
+
+PAGE 19 house
+    PROX bottom of stairs
+        DIA anaconda ben sprazz
+            Still hidden on the stairs, you hear the front door open. Someone enters and starts threatening Ben and Sprazz. It's Anaconda. You peak around the corner to see whats going on, and watch as ANaconda grabs both Ben and Sprazz and - CENSORED DUE TO EXCESSIVE GRUESOME VIOLENCE
