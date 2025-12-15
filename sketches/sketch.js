@@ -24,7 +24,7 @@ function setup() {
     dark = color(0)
     frameRate(30)
 
-    background(200)
+    background(dark)
     rectMode(CENTER)
     ellipseMode(CENTER)
     imageMode(CENTER)
@@ -68,7 +68,7 @@ function draw(){
         (220 + dist(mouseX, mouseY, width/2, height/2)/(width * .03)), 
         (160 + dist(mouseX, mouseY, width/2, height/2)/(width * .015)))
 
-    background(100)
+    background(dark)
     noStroke()
 
     page.display()
