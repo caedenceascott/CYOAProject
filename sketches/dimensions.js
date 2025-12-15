@@ -1,6 +1,6 @@
 function windowResized(){
     setDimensions()
-    background(200)
+    background(dark)
 }
 
 function updateDimensions(){
